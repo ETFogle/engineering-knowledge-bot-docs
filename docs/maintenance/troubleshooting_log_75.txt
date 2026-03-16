@@ -1,0 +1,15 @@
+Maintenance Document #75
+Topic: troubleshooting log
+Description:
+This document outlines maintenance procedures and records for troubleshooting log.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-4269: Inspect and service troubleshooting log.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

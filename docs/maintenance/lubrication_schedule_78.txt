@@ -1,0 +1,15 @@
+Maintenance Document #78
+Topic: lubrication schedule
+Description:
+This document outlines maintenance procedures and records for lubrication schedule.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-6218: Inspect and service lubrication schedule.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

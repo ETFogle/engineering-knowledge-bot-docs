@@ -1,0 +1,15 @@
+Maintenance Document #156
+Topic: cmms work order example
+Description:
+This document outlines maintenance procedures and records for cmms work order example.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-5319: Inspect and service cmms work order example.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

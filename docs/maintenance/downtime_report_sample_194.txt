@@ -1,0 +1,15 @@
+Maintenance Document #194
+Topic: downtime report sample
+Description:
+This document outlines maintenance procedures and records for downtime report sample.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-9706: Inspect and service downtime report sample.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

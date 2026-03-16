@@ -1,0 +1,15 @@
+Maintenance Document #73
+Topic: pm checklist press
+Description:
+This document outlines maintenance procedures and records for pm checklist press.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-7014: Inspect and service pm checklist press.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

@@ -1,0 +1,15 @@
+Maintenance Document #80
+Topic: maintenance sop conveyor
+Description:
+This document outlines maintenance procedures and records for maintenance sop conveyor.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-8317: Inspect and service maintenance sop conveyor.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.

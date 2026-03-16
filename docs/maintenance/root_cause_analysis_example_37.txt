@@ -1,0 +1,15 @@
+Maintenance Document #37
+Topic: root cause analysis example
+Description:
+This document outlines maintenance procedures and records for root cause analysis example.
+Tasks:
+- Visual inspection
+- Lubrication
+- Fastener torque check
+
+Example Work Order:
+WO-1480: Inspect and service root cause analysis example.
+
+Notes:
+- Record downtime duration.
+- Capture root cause and corrective action.
