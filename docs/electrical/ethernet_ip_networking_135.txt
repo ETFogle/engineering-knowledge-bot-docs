@@ -1,0 +1,18 @@
+Electrical Document #135
+Topic: ethernet ip networking
+Description:
+This document covers electrical characteristics and troubleshooting for ethernet ip networking.
+Key Parameters:
+- Voltage: 120 V
+- Current: 35.63783843574441 A
+- Control voltage: 24 VDC
+
+Common Faults:
+- Open circuit
+- Short circuit
+- Ground fault
+
+Troubleshooting Steps:
+1. Verify supply voltage.
+2. Inspect wiring and terminals.
+3. Check device status LEDs.

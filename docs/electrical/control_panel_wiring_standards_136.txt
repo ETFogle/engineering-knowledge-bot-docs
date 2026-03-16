@@ -1,0 +1,18 @@
+Electrical Document #136
+Topic: control panel wiring standards
+Description:
+This document covers electrical characteristics and troubleshooting for control panel wiring standards.
+Key Parameters:
+- Voltage: 120 V
+- Current: 25.922428179044317 A
+- Control voltage: 24 VDC
+
+Common Faults:
+- Open circuit
+- Short circuit
+- Ground fault
+
+Troubleshooting Steps:
+1. Verify supply voltage.
+2. Inspect wiring and terminals.
+3. Check device status LEDs.

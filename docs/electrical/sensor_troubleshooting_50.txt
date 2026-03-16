@@ -1,0 +1,18 @@
+Electrical Document #50
+Topic: sensor troubleshooting
+Description:
+This document covers electrical characteristics and troubleshooting for sensor troubleshooting.
+Key Parameters:
+- Voltage: 120 V
+- Current: 12.687164581329782 A
+- Control voltage: 24 VDC
+
+Common Faults:
+- Open circuit
+- Short circuit
+- Ground fault
+
+Troubleshooting Steps:
+1. Verify supply voltage.
+2. Inspect wiring and terminals.
+3. Check device status LEDs.

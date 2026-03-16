@@ -1,0 +1,18 @@
+Electrical Document #173
+Topic: electrical safety lockout
+Description:
+This document covers electrical characteristics and troubleshooting for electrical safety lockout.
+Key Parameters:
+- Voltage: 480 V
+- Current: 17.84337742996196 A
+- Control voltage: 24 VDC
+
+Common Faults:
+- Open circuit
+- Short circuit
+- Ground fault
+
+Troubleshooting Steps:
+1. Verify supply voltage.
+2. Inspect wiring and terminals.
+3. Check device status LEDs.
