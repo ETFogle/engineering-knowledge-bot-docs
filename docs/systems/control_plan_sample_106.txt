@@ -1,0 +1,14 @@
+Systems Engineering Document #106
+Topic: control plan sample
+Description:
+This document describes system-level behavior and analysis for control plan sample.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 1
+Occurrence: 9
+Detection: 7
+RPN: 63

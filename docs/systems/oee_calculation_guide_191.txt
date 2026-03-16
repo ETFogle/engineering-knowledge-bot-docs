@@ -1,0 +1,14 @@
+Systems Engineering Document #191
+Topic: oee calculation guide
+Description:
+This document describes system-level behavior and analysis for oee calculation guide.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 1
+Occurrence: 5
+Detection: 6
+RPN: 30

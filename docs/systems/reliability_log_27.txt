@@ -1,0 +1,14 @@
+Systems Engineering Document #27
+Topic: reliability log
+Description:
+This document describes system-level behavior and analysis for reliability log.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 5
+Occurrence: 4
+Detection: 7
+RPN: 140

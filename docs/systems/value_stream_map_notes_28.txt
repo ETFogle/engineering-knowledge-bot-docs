@@ -1,0 +1,14 @@
+Systems Engineering Document #28
+Topic: value stream map notes
+Description:
+This document describes system-level behavior and analysis for value stream map notes.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 7
+Occurrence: 3
+Detection: 8
+RPN: 168

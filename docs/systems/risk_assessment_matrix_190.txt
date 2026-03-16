@@ -1,0 +1,14 @@
+Systems Engineering Document #190
+Topic: risk assessment matrix
+Description:
+This document describes system-level behavior and analysis for risk assessment matrix.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 6
+Occurrence: 6
+Detection: 5
+RPN: 180

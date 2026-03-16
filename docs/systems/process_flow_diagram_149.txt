@@ -1,0 +1,14 @@
+Systems Engineering Document #149
+Topic: process flow diagram
+Description:
+This document describes system-level behavior and analysis for process flow diagram.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 5
+Occurrence: 9
+Detection: 3
+RPN: 135

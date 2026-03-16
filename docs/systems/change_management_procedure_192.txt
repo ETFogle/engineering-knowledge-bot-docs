@@ -1,0 +1,14 @@
+Systems Engineering Document #192
+Topic: change management procedure
+Description:
+This document describes system-level behavior and analysis for change management procedure.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 10
+Occurrence: 3
+Detection: 4
+RPN: 120

@@ -1,0 +1,14 @@
+Systems Engineering Document #65
+Topic: pfmea example
+Description:
+This document describes system-level behavior and analysis for pfmea example.
+Metrics:
+- OEE
+- MTBF
+- Cycle time
+
+Risk Assessment:
+Severity: 2
+Occurrence: 9
+Detection: 9
+RPN: 162
