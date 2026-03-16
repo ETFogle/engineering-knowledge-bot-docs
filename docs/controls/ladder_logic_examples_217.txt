@@ -1,0 +1,15 @@
+Controls Document #217
+Topic: ladder logic examples
+Description:
+This document explains control logic and automation concepts for ladder logic examples.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+ladder logic examples_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-112: ladder logic examples fault detected.

@@ -1,0 +1,15 @@
+Controls Document #24
+Topic: scada system overview
+Description:
+This document explains control logic and automation concepts for scada system overview.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+scada system overview_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-236: scada system overview fault detected.

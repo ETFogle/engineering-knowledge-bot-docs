@@ -1,0 +1,15 @@
+Controls Document #183
+Topic: motion axis troubleshooting
+Description:
+This document explains control logic and automation concepts for motion axis troubleshooting.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+motion axis troubleshooting_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-416: motion axis troubleshooting fault detected.

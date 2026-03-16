@@ -1,0 +1,15 @@
+Controls Document #19
+Topic: pid tuning guide
+Description:
+This document explains control logic and automation concepts for pid tuning guide.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+pid tuning guide_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-187: pid tuning guide fault detected.

@@ -1,0 +1,15 @@
+Controls Document #220
+Topic: robot teach pendant notes
+Description:
+This document explains control logic and automation concepts for robot teach pendant notes.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+robot teach pendant notes_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-420: robot teach pendant notes fault detected.

@@ -1,0 +1,15 @@
+Controls Document #98
+Topic: hmi alarm descriptions
+Description:
+This document explains control logic and automation concepts for hmi alarm descriptions.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+hmi alarm descriptions_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-140: hmi alarm descriptions fault detected.

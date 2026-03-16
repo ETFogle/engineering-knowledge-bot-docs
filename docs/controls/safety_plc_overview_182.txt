@@ -1,0 +1,15 @@
+Controls Document #182
+Topic: safety plc overview
+Description:
+This document explains control logic and automation concepts for safety plc overview.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+safety plc overview_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-129: safety plc overview fault detected.

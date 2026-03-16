@@ -1,0 +1,15 @@
+Controls Document #181
+Topic: plc tag dictionary
+Description:
+This document explains control logic and automation concepts for plc tag dictionary.
+Key Concepts:
+- PLC tags
+- Ladder logic rungs
+- HMI alarms
+- PID tuning
+
+Example Tag:
+plc tag dictionary_Run_Cmd : BOOL
+
+Typical Alarm:
+ALM-202: plc tag dictionary fault detected.
