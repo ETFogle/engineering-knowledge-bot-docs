@@ -1,0 +1,18 @@
+Mechanical Document #123
+Topic: pneumatic cylinder guide
+Description:
+This document describes mechanical aspects of pneumatic cylinder guide in a manufacturing environment.
+Key Parameters:
+- Operating speed: 1181 RPM
+- Torque: 67 Nm
+- Temperature limit: 72 °C
+
+Common Failure Modes:
+- Misalignment
+- Insufficient lubrication
+- Overloading
+
+Recommended Actions:
+- Follow torque specs
+- Verify alignment within 0.005 in
+- Inspect bearings regularly

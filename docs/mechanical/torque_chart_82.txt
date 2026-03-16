@@ -1,0 +1,18 @@
+Mechanical Document #82
+Topic: torque chart
+Description:
+This document describes mechanical aspects of torque chart in a manufacturing environment.
+Key Parameters:
+- Operating speed: 1340 RPM
+- Torque: 124 Nm
+- Temperature limit: 85 °C
+
+Common Failure Modes:
+- Misalignment
+- Insufficient lubrication
+- Overloading
+
+Recommended Actions:
+- Follow torque specs
+- Verify alignment within 0.005 in
+- Inspect bearings regularly

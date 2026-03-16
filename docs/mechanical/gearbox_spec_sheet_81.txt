@@ -1,0 +1,18 @@
+Mechanical Document #81
+Topic: gearbox spec sheet
+Description:
+This document describes mechanical aspects of gearbox spec sheet in a manufacturing environment.
+Key Parameters:
+- Operating speed: 821 RPM
+- Torque: 75 Nm
+- Temperature limit: 61 °C
+
+Common Failure Modes:
+- Misalignment
+- Insufficient lubrication
+- Overloading
+
+Recommended Actions:
+- Follow torque specs
+- Verify alignment within 0.005 in
+- Inspect bearings regularly

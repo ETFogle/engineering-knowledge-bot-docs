@@ -1,0 +1,18 @@
+Mechanical Document #207
+Topic: motor mounting procedure
+Description:
+This document describes mechanical aspects of motor mounting procedure in a manufacturing environment.
+Key Parameters:
+- Operating speed: 765 RPM
+- Torque: 225 Nm
+- Temperature limit: 69 °C
+
+Common Failure Modes:
+- Misalignment
+- Insufficient lubrication
+- Overloading
+
+Recommended Actions:
+- Follow torque specs
+- Verify alignment within 0.005 in
+- Inspect bearings regularly

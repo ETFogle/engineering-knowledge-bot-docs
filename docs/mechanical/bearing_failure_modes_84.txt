@@ -1,0 +1,18 @@
+Mechanical Document #84
+Topic: bearing failure modes
+Description:
+This document describes mechanical aspects of bearing failure modes in a manufacturing environment.
+Key Parameters:
+- Operating speed: 886 RPM
+- Torque: 16 Nm
+- Temperature limit: 63 °C
+
+Common Failure Modes:
+- Misalignment
+- Insufficient lubrication
+- Overloading
+
+Recommended Actions:
+- Follow torque specs
+- Verify alignment within 0.005 in
+- Inspect bearings regularly
