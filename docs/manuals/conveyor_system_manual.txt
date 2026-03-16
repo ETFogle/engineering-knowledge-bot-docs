@@ -1,0 +1,42 @@
+Conveyor System Installation and Maintenance Manual
+
+Section 1 – System Description
+The conveyor system transports product between workstations using a continuous belt driven by an electric motor and gearbox.
+
+Section 2 – Key Components
+- Drive pulley
+- Tail pulley
+- Idler rollers
+- Belt tracking sensors
+- Motor and gearbox
+
+Section 3 – Installation Guidelines
+- Ensure frame is level within 1 mm per meter.
+- Align pulleys using a straightedge.
+- Set belt tension according to manufacturer guidelines.
+
+Section 4 – Common Issues
+Issue: Belt mistracking
+Causes:
+- Uneven loading
+- Misaligned idlers
+- Worn pulley lagging
+
+Issue: Motor overload trips
+Causes:
+- Excessive belt tension
+- Material jam
+- Gearbox failure
+
+Section 5 – Maintenance Schedule
+Daily:
+- Visual inspection for debris
+- Check belt for damage
+
+Weekly:
+- Inspect idler rotation
+- Verify sensor alignment
+
+Monthly:
+- Check motor temperature
+- Inspect gearbox oil level

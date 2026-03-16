@@ -1,0 +1,47 @@
+Hydraulic Press Operation and Maintenance Manual
+
+Section 1 – Overview
+The hydraulic press is used for forming, stamping, and pressing operations. It operates using high-pressure hydraulic fluid to generate force.
+
+Section 2 – Safety Precautions
+- Never place hands inside the press area during operation.
+- Always verify E-Stop functionality before each shift.
+- Lockout/Tagout must be applied before maintenance.
+
+Section 3 – Operating Parameters
+- Nominal pressure: 2000 psi
+- Maximum pressure: 2500 psi
+- Stroke length: 250 mm
+- Cycle time: 8 seconds
+
+Section 4 – Common Faults
+Fault: Press will not build pressure
+Possible Causes:
+- Low hydraulic fluid level
+- Relief valve stuck open
+- Pump coupling sheared
+
+Fault: Press cycles slowly
+Possible Causes:
+- Clogged return filter
+- Air in hydraulic lines
+- Worn pump
+
+Section 5 – Preventive Maintenance
+Daily:
+- Check fluid level
+- Inspect for visible leaks
+
+Weekly:
+- Clean filter screens
+- Inspect hoses for abrasion
+
+Quarterly:
+- Replace hydraulic fluid
+- Inspect cylinder seals
+
+Section 6 – Troubleshooting Flowchart
+1. Verify power and E-Stop status.
+2. Check hydraulic fluid level.
+3. Inspect pump motor overload.
+4. Measure system pressure at test port.
